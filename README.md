@@ -20,6 +20,7 @@ https://github.com/anuraghazra/github-readme-stats
 - 💻 I’m a CS student @ Tec de Monterrey
 - 🌱 I’m currently learning web development
 - 📫 You can reach me by email samueldiaz1004@gmail.com or via [LinkedIn](https://www.linkedin.com/in/sadgo)
+- 📖 You can check my portfolio [here](https://samueldiaz1004.github.io/MyPortfolio/)
 
 <br>
 
