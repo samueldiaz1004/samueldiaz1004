@@ -19,9 +19,9 @@ https://github.com/devicons/devicon/tree/master/icons
 ## 👋 Hi there 👋
 
 - 💻 I’m a CS student @ Tec de Monterrey
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning machine learning
 - 📫 You can reach me by email samueldiaz1004@gmail.com or via [LinkedIn](https://www.linkedin.com/in/sadgo)
-- 📖 You can check my portfolio [here](https://samueldiaz1004.github.io/MyPortfolio/)
+- 📖 [You can check my portfolio](https://samueldiaz1004.github.io/MyPortfolio/)
 
 ### Programming Languages
 <table>
@@ -42,6 +42,7 @@ https://github.com/devicons/devicon/tree/master/icons
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/></td>
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="50" height="50"/></td>
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="50" height="50"/></td>
+  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="50" height="50"/></td>
 </table>
 
 ### Stats
