@@ -19,8 +19,8 @@ https://github.com/devicons/devicon/tree/master/icons
 ## 👋 Hi there 👋
 
 - 💻 I’m a CS student @ Tec de Monterrey
-- 🌱 I’m currently learning machine learning
-- 📫 You can reach me by email samueldiaz1004@gmail.com or via [LinkedIn](https://www.linkedin.com/in/sadgo)
+- 🌱 I’m currently learning about machine learning
+- 📫 You can reach me by <a href="mailto:samueldiaz1004@gmail.com">Email</a> or via [LinkedIn](https://www.linkedin.com/in/sadgo)
 - 📖 [You can check my portfolio](https://samueldiaz1004.github.io/MyPortfolio/)
 
 ### Programming Languages
