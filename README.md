@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 For future reference:
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/devicons/devicon/tree/master/icons
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 ## 👋 Hi there 👋
 
 - 💻 I’m a CS student @ Tec de Monterrey
+- 🔭 I’m currently working on [Intel's OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html)
 - 🌱 I’m currently learning about machine learning
 - 📫 You can reach me by <a href="mailto:samueldiaz1004@gmail.com">Email</a> or via [LinkedIn](https://www.linkedin.com/in/sadgo)
 - 📖 [Check out my portfolio!](https://samueldiaz1004.github.io/MyPortfolio/)
