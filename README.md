@@ -19,17 +19,16 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 ## 👋 Hi there 👋
 
-- 💻 I’m a CS student @ Tec de Monterrey
-- 🔭 I’m currently working on [Intel's OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html)
-- 🌱 I’m currently learning about machine learning
+- 💻 I’m a recent CS graduate from Tec de Monterrey and Software Engineer @ Intel
+- 🔭 I’m currently working on [OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html)
 - 📫 You can reach me by <a href="mailto:samueldiaz1004@gmail.com">Email</a> or via [LinkedIn](https://www.linkedin.com/in/sadgo)
 - 📖 [Check out my portfolio!](https://samueldiaz1004.github.io/MyPortfolio/)
 
 ### Programming Languages
 <table>
-  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="50" height="50"/> </td>
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="50" height="50"/></td>
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/></td>
+  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="50" height="50"/></td>
 </table>
 
 ### Tools and Tecnologies
