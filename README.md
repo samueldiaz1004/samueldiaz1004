@@ -19,30 +19,26 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 ## 👋 Hi there 👋
 
-- 💻 I’m a recent CS graduate from Tec de Monterrey and Software Engineer @ Intel
-- 🔭 I’m currently working on [OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html)
-- 📫 You can reach me by <a href="mailto:samueldiaz1004@gmail.com">Email</a> or via [LinkedIn](https://www.linkedin.com/in/sadgo)
-- 📖 [Check out my portfolio!](https://samueldiaz1004.github.io/MyPortfolio/)
+- 💻 I’m a computer science graduate from Tecnologico de Monterrey and junior software engineer.
+- I'm looking for software engineering and data science roles.
+- 📫 You can reach me by <a href="mailto:samueldiaz1004@gmail.com">Email</a> or via [LinkedIn](https://www.linkedin.com/in/sadgo).
 
 ### Programming Languages
 <table>
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="50" height="50"/></td>
-  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/></td>
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="50" height="50"/></td>
+  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/></td>
 </table>
 
 ### Tools and Tecnologies
 <table>
-  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="50" height="50"/></td>
-  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="50" height="50"/></td>
-  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="50" height="50"/></td>
-  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="node" alt="node" width="50" height="50"/></td>
-  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="50" height="50"/></td>
-  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="sql" alt="sql" width="50" height="50"/></td>
-  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongo" alt="mongo" width="50" height="50"/></td>
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/></td>
-  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="50" height="50"/></td>
+  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" title="git-actions" alt="git-actions" width="50" height="50"/></td>
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="50" height="50"/></td>
+  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="50" height="50"/></td>
+  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="50" height="50"/></td>
+  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="sql" alt="sql" width="50" height="50"/></td>
+  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="50" height="50"/></td>
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="50" height="50"/></td>
 </table>
 
